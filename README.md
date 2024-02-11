@@ -1,15 +1,7 @@
 # My-First-ML-Model
 ## Real Estate Price Prediction Model
 
-This project aims to predict the price of real estate units based on various factors such as distance to the nearest MRT station, number of convenience stores nearby, latitude, and longitude. The prediction is made using a linear regression model trained on historical real estate data.
-
-## Project Structure
-
-The project consists of the following components:
-
-- Contains the Dash web application for real estate price prediction.
-- Dataset containing historical real estate data used for training the model.
-- List of Python dependencies required to run the application.
+This project aims to predict the price of real estate units based on various factors such as distance to the nearest MRT station, number of convenience stores nearby, latitude, and longitude. The prediction is made using a linear regression model trained on historical real estate data. Finally, build the web application using Dash library to predict the price of house based on ceertain input fields.
 
 
 ## Model
